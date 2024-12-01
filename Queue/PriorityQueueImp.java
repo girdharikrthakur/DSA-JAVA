@@ -47,7 +47,7 @@ public class PriorityQueueImp {
 
  public static void main(String[] args) {
 
-  PriorityQueueSort q = new PriorityQueueSort();
+    PriorityQueueImp q = new PriorityQueueImp();
 
   q.add(1);
   q.add(3);
